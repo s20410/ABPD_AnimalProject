@@ -1,0 +1,7 @@
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.csproj.AssemblyReference.cache
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.AssemblyInfoInputs.cache
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.AssemblyInfo.cs
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.csproj.CoreCompileInputs.cache
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/dawid/RiderProjects/AnimalsProject/AnimalsProject/obj/Debug/net8.0/AnimalsProject.MvcApplicationPartsAssemblyInfo.cache
